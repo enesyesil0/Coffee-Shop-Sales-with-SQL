@@ -1,6 +1,6 @@
 # Coffee-Shop-Sales-with-SQL
 I created a custom database using MySQL then created a dashboard with Tableau.
-(Check out the dashboard)[https://public.tableau.com/views/CoffeeShopSalesDashboard_17038852619130/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link]
+[Check out the dashboard](https://public.tableau.com/views/CoffeeShopSalesDashboard_17038852619130/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Step-1
 I used some random data generators to create the data. Because of that, results of the final data might not be realistic as a real coffee shop sales.
 ## Step-2
