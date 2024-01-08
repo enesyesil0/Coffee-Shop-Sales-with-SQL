@@ -1,0 +1,301 @@
+order_id,item_price,quantity,item_name,created_at,delivery_address1,delivery_address2,delivery_city,delivery_zipcode,delivery
+ORDER001,6,5,Espresso,3/12/2023 8:03,"P.O. Box 965, 1549 Ut, Rd.",,Green Bay,94444,TRUE
+ORDER002,8,2,Latte,12/1/2023 7:12,Ap #393-7402 Tincidunt St.,,Denver,88365,TRUE
+ORDER003,8,5,Glace,3/1/2023 18:03,9465 Euismod Ave,815-6064 Risus. Road,Helena,21125,TRUE
+ORDER004,8,1,Cocoa,6/1/2023 17:06,Ap #717-420 Luctus Rd.,Ap #773-2804 Vel Avenue,Colorado Springs,36285,TRUE
+ORDER005,8,4,Mocha,11/7/2023 6:11,Ap #589-3031 Nulla Avenue,,South Burlington,71661,TRUE
+ORDER006,5,3,Chocolate,4/1/2023 22:04,4180 Ut Av.,,Lewiston,88352,TRUE
+ORDER007,7,4,Flat White,6/11/2023 5:06,788-4512 Libero Avenue,,Columbus,41907,TRUE
+ORDER008,7,3,Cappuccino,9/10/2023 5:09,Ap #798-4763 Feugiat. Av.,,Virginia Beach,20528,TRUE
+ORDER009,7,4,Cafe Latte,6/11/2023 4:06,"Ap #610-2333 Elementum, Rd.",,Norman,15917,TRUE
+ORDER010,6,2,Espresso,8/6/2023 22:08,Ap #597-2741 Diam Street,,Norfolk,79204,TRUE
+ORDER011,6,2,Espresso,5/1/2023 7:05,Ap #377-1064 Tincidunt Avenue,,Lewiston,47426,FALSE
+ORDER012,6,2,Espresso,2/1/2023 3:02,3801 Nam Rd.,,Kailua,92210,FALSE
+ORDER013,6,2,Espresso,1/9/2023 6:01,790-6709 Donec Rd.,,West Jordan,63883,FALSE
+ORDER014,6,2,Espresso,10/1/2023 15:10,543-3992 Turpis. Street,,West Jordan,38759,TRUE
+ORDER015,6,3,Espresso,4/1/2023 12:04,612-5241 Amet Street,,Indianapolis,44162,TRUE
+ORDER016,6,5,Espresso,8/5/2023 18:08,Ap #534-8425 Nisi. Road,,Henderson,71656,TRUE
+ORDER017,6,3,Espresso,11/1/2023 1:11,Ap #168-8860 Nunc Avenue,Ap #704-3702 Phasellus Rd.,Evansville,21252,FALSE
+ORDER018,6,3,Espresso,8/12/2023 23:08,487-6324 Sem Rd.,,Juneau,47273,TRUE
+ORDER019,6,4,Espresso,9/4/2023 7:09,794-4318 Nulla Avenue,,Henderson,38428,TRUE
+ORDER020,6,4,Espresso,10/1/2023 21:10,219-5001 Feugiat Av.,,Erie,16543,TRUE
+ORDER021,6,3,Espresso,5/1/2023 12:05,7702 Nibh Avenue,,Colchester,16236,TRUE
+ORDER022,6,1,Espresso,12/1/2023 23:12,Ap #187-2589 Id Rd.,,Gaithersburg,71176,TRUE
+ORDER023,6,2,Espresso,7/1/2023 2:07,373-3757 Ante Av.,,Cincinnati,40867,TRUE
+ORDER024,8,4,Cocoa,6/1/2023 23:06,993-9729 Massa. Road,,Huntsville,65778,TRUE
+ORDER025,8,3,Cocoa,7/1/2023 14:07,Ap #643-6920 Neque Road,,College,71721,TRUE
+ORDER026,8,4,Cocoa,10/1/2023 2:10,"627-4407 Dui, St.",,Madison,81984,TRUE
+ORDER027,8,2,Cocoa,7/2/2023 10:07,798-4827 Eros Street,,Carson City,94177,TRUE
+ORDER028,8,2,Cocoa,5/1/2023 10:05,Ap #187-3209 Tristique Road,,Laramie,27727,TRUE
+ORDER029,8,4,Cocoa,9/1/2023 20:09,108-3063 Magna. Street,,Pocatello,77338,TRUE
+ORDER030,8,5,Cocoa,2/1/2023 2:02,673-5231 Conubia Avenue,Ap #109-9170 Sed Av.,Cleveland,90784,TRUE
+ORDER031,8,1,Cocoa,1/1/2023 16:01,405-3741 Vitae Rd.,,Southaven,94501,FALSE
+ORDER032,8,5,Cocoa,3/1/2023 10:03,Ap #151-6645 Curabitur Av.,,Bloomington,50638,FALSE
+ORDER033,8,5,Cocoa,4/1/2023 4:04,Ap #283-4196 Sed Road,,Cedar Rapids,59566,TRUE
+ORDER034,8,4,Cocoa,4/1/2023 2:04,371-9014 Quam. Av.,,Joliet,61081,TRUE
+ORDER035,8,4,Cocoa,7/1/2023 16:07,"P.O. Box 506, 2607 Ipsum. Av.",,Montpelier,66642,FALSE
+ORDER036,8,3,Cocoa,6/1/2023 6:06,Ap #787-8119 Ultrices Ave,,Nashville,56695,TRUE
+ORDER037,8,5,Cocoa,11/4/2023 14:11,117-4627 Ultrices St.,,Gulfport,53366,FALSE
+ORDER038,8,3,Cocoa,10/1/2023 13:10,Ap #929-1210 Vestibulum Ave,,Anchorage,82263,TRUE
+ORDER039,8,3,Cocoa,9/7/2023 0:09,"P.O. Box 126, 4381 Urna Av.",,San Jose,21827,FALSE
+ORDER040,8,2,Mocha,3/2/2023 4:03,9206 Pede. Street,,Augusta,32743,TRUE
+ORDER041,8,4,Mocha,7/3/2023 18:07,Ap #430-8638 Erat Avenue,,Montpelier,35355,TRUE
+ORDER042,8,4,Mocha,7/1/2023 15:07,547-463 Curabitur Road,,Anchorage,36323,TRUE
+ORDER043,8,5,Mocha,7/1/2023 4:07,Ap #190-8271 Pellentesque Street,9011 Et Avenue,Idaho Falls,38237,TRUE
+ORDER044,8,4,Mocha,6/6/2023 4:06,7764 Dolor Avenue,,Idaho Falls,38603,TRUE
+ORDER045,8,2,Mocha,1/1/2023 14:01,"913-2905 Vulputate, Road",,Cheyenne,35527,TRUE
+ORDER046,8,1,Mocha,4/2/2023 7:04,618-4880 Magna. Avenue,,Georgia,99986,TRUE
+ORDER047,8,2,Mocha,11/1/2023 6:11,"8710 Non, Rd.",,Knoxville,41333,TRUE
+ORDER048,8,4,Mocha,10/1/2023 14:10,"P.O. Box 862, 922 Laoreet Ave",,San Antonio,72358,TRUE
+ORDER049,8,3,Mocha,5/1/2023 16:05,5942 Etiam Rd.,,Lansing,36835,TRUE
+ORDER050,8,1,Mocha,4/7/2023 5:04,Ap #938-6512 Vivamus Road,,Denver,35836,TRUE
+ORDER051,7,2,Flat White,1/7/2023 2:01,795-8978 Et Rd.,,Las Vegas,85333,TRUE
+ORDER052,7,1,Cappuccino,7/1/2023 2:07,Ap #610-7076 Sed St.,,Davenport,63815,TRUE
+ORDER053,7,1,Cafe Latte,3/7/2023 16:03,221-9672 Vel St.,"P.O. Box 975, 5065 Lectus Rd.",Davenport,85132,TRUE
+ORDER054,5,2,Chocolate,10/1/2023 4:10,Ap #492-8587 Nulla Ave,,Tucson,31510,FALSE
+ORDER055,7,3,Flat White,7/7/2023 10:07,624-2335 Metus. Avenue,528-4938 Nec Street,Los Angeles,62121,TRUE
+ORDER056,7,3,Flat White,5/1/2023 20:05,514-8971 Malesuada Rd.,,Colorado Springs,49484,FALSE
+ORDER057,5,4,Chocolate,4/1/2023 12:04,"P.O. Box 350, 4853 Quisque Rd.",,Indianapolis,97354,TRUE
+ORDER058,13,2,Ham Toast,7/2/2023 16:07,Ap #339-2108 Nibh Rd.,,Tulsa,51164,TRUE
+ORDER059,12,4,Avocados,10/1/2023 19:10,866-8452 Mattis Avenue,,Clarksville,29135,TRUE
+ORDER060,4,2,Mochi,4/1/2023 0:04,"7866 Elementum, Street",,Chicago,26115,TRUE
+ORDER061,4,2,Mochi,4/1/2023 12:04,"P.O. Box 955, 4836 Iaculis Av.",,Tuscaloosa,67757,TRUE
+ORDER062,5,3,Cupcakes,8/1/2023 11:08,Ap #119-7435 Eget Road,,Lakewood,97131,TRUE
+ORDER063,5,3,Icecream,2/1/2023 12:02,"P.O. Box 837, 4252 Ullamcorper. St.",,Richmond,47287,TRUE
+ORDER064,4,2,Macaron,6/7/2023 16:06,339-890 Mauris St.,,Nampa,71959,TRUE
+ORDER065,4,2,Macaron,4/3/2023 21:04,Ap #787-8015 Quisque Rd.,,Tucson,24636,TRUE
+ORDER066,10,4,Cheese Toast,5/1/2023 13:05,665-2968 Arcu. St.,994-1672 Aenean Street,Reno,63652,TRUE
+ORDER067,10,5,Jam Toast,1/1/2023 19:01,"P.O. Box 240, 538 Sed Rd.",,Owensboro,27720,TRUE
+ORDER068,13,3,Strawberry,12/1/2023 4:12,"P.O. Box 277, 9875 Ornare Avenue",,Bellevue,56127,FALSE
+ORDER069,13,2,Strawberry,3/4/2023 22:03,Ap #579-2675 Pellentesque Av.,,Little Rock,86421,FALSE
+ORDER070,13,3,Strawberry,8/1/2023 17:08,Ap #840-9680 Non Ave,,Paradise,53244,FALSE
+ORDER071,7,1,Cakes,5/1/2023 21:05,885-9990 Proin Avenue,,West Valley City,85933,TRUE
+ORDER072,7,4,Cakes,7/7/2023 4:07,Ap #692-2821 Purus Avenue,,San Jose,20687,FALSE
+ORDER073,7,4,Cakes,8/1/2023 21:08,158-7770 Sem St.,446-5323 Magna Avenue,Pike Creek,86168,TRUE
+ORDER074,13,2,Ham Toast,11/1/2023 20:11,685-7379 Eget St.,,Hillsboro,16772,TRUE
+ORDER075,12,1,Avocados,12/1/2023 7:12,Ap #931-5294 Dictum Ave,,New Orleans,47608,TRUE
+ORDER076,12,2,Avocados,11/1/2023 20:11,"P.O. Box 346, 2525 Consectetuer, Ave",,Covington,31637,TRUE
+ORDER077,10,3,Jam Toast,9/2/2023 20:09,"Ap #755-6733 Nec, Avenue",,Virginia Beach,59458,TRUE
+ORDER078,10,5,Jam Toast,12/1/2023 9:12,561-3796 Nunc Street,,St. Petersburg,85421,TRUE
+ORDER079,12,5,Avocados,10/1/2023 15:10,106-865 Quis Ave,,San Antonio,41876,TRUE
+ORDER080,7,2,Milk Tea,6/1/2023 19:06,334-2880 Gravida St.,,Knoxville,38835,TRUE
+ORDER081,7,5,Cafe Latte,7/3/2023 16:07,951-4840 At St.,,Birmingham,71882,TRUE
+ORDER082,7,5,Milk Tea,2/1/2023 14:02,526-9109 Cursus Rd.,,Bloomington,62046,TRUE
+ORDER083,5,1,Chocolate,3/1/2023 13:03,Ap #838-6100 Consequat Avenue,,Philadelphia,27556,TRUE
+ORDER084,7,4,Flat White,3/1/2023 17:03,Ap #842-6516 Nunc Rd.,,Indianapolis,58064,TRUE
+ORDER085,7,4,Cappuccino,6/1/2023 6:06,Ap #754-2260 Diam Road,,South Bend,64632,TRUE
+ORDER086,8,4,Mocha,4/3/2023 9:04,Ap #673-6533 Ligula Avenue,,New Orleans,66732,TRUE
+ORDER087,8,5,Glace,9/1/2023 22:09,237-7869 Lobortis Street,Ap #797-4877 Et Av.,Montgomery,81953,TRUE
+ORDER088,6,1,Espresso,7/6/2023 15:07,Ap #711-1180 Nunc Avenue,338-4795 Interdum. Av.,Duluth,78736,FALSE
+ORDER089,6,2,Espresso,3/1/2023 6:03,307-2977 Adipiscing Rd.,,Reno,85428,TRUE
+ORDER090,8,2,Latte,3/9/2023 8:03,"P.O. Box 828, 9400 Rhoncus Rd.",,Memphis,37758,TRUE
+ORDER091,8,1,Cocoa,1/1/2023 14:01,"P.O. Box 985, 9524 Nulla Rd.",,Omaha,10685,FALSE
+ORDER092,8,3,Cocoa,4/1/2023 8:04,Ap #358-8530 Aliquam Street,,Sandy,23297,TRUE
+ORDER093,7,1,Cafe Latte,4/1/2023 23:04,925-2098 Justo. St.,,Des Moines,73485,TRUE
+ORDER094,7,3,Cafe Latte,8/9/2023 7:08,"P.O. Box 800, 9928 Sit Ave",,Harrisburg,76561,TRUE
+ORDER095,7,2,Flat White,10/10/2023 5:10,Ap #973-1562 Aliquam Rd.,,Ketchikan,21027,TRUE
+ORDER096,5,2,Chocolate,7/12/2023 13:07,990-3204 Sed Av.,,Lexington,37046,TRUE
+ORDER097,7,2,Cafe Latte,10/1/2023 19:10,270-6941 Risus Street,,West Valley City,44170,TRUE
+ORDER098,5,3,Chocolate,2/1/2023 2:02,638-7091 Augue. Street,,College,85789,TRUE
+ORDER099,7,3,Flat White,8/3/2023 19:08,"P.O. Box 140, 7377 Lacus, Ave",,Aurora,61324,TRUE
+ORDER100,7,2,Flat White,5/11/2023 20:05,"P.O. Box 850, 8274 Ultrices. St.",,Birmingham,62426,TRUE
+ORDER101,5,4,Chocolate,3/1/2023 8:03,Ap #940-9686 Urna. Road,,Oklahoma City,35319,TRUE
+ORDER102,13,4,Ham Toast,4/1/2023 3:04,"P.O. Box 406, 8822 Felis Av.",970-4924 Turpis. Road,Little Rock,14754,TRUE
+ORDER103,12,4,Avocados,4/1/2023 20:04,"P.O. Box 365, 7541 Nec Road",,Nampa,67172,TRUE
+ORDER104,4,2,Mochi,1/8/2023 12:01,"1832 A, Rd.",,Chattanooga,42556,FALSE
+ORDER105,4,3,Mochi,3/1/2023 10:03,"P.O. Box 595, 1158 Volutpat. Rd.",,Aurora,50362,FALSE
+ORDER106,5,3,Cupcakes,9/1/2023 5:09,180-3574 Ligula Av.,,Nashville,34796,TRUE
+ORDER107,5,1,Icecream,9/10/2023 1:09,143-8144 Penatibus Road,,Salt Lake City,49025,TRUE
+ORDER108,4,2,Macaron,1/1/2023 23:01,Ap #646-2173 Purus. Avenue,,Kansas City,63658,TRUE
+ORDER109,4,1,Macaron,3/1/2023 14:03,"P.O. Box 127, 9028 Luctus Road",,Spokane,99628,TRUE
+ORDER110,10,2,Cheese Toast,12/1/2023 10:12,Ap #357-3588 Dignissim St.,,Dover,98499,TRUE
+ORDER111,10,2,Jam Toast,9/3/2023 7:09,"P.O. Box 149, 6871 Id, Avenue",,San Diego,41088,TRUE
+ORDER112,13,3,Strawberry,5/1/2023 20:05,162-5844 Bibendum Rd.,,Tuscaloosa,36683,TRUE
+ORDER113,13,1,Strawberry,1/1/2023 14:01,"P.O. Box 957, 6894 Eu, Road",,San Diego,24262,TRUE
+ORDER114,13,3,Strawberry,12/7/2023 11:12,"P.O. Box 863, 3902 Mauris Ave",,Tampa,25837,TRUE
+ORDER115,7,5,Cakes,2/1/2023 10:02,397-7370 Class Avenue,,Kaneohe,36635,TRUE
+ORDER116,7,2,Cakes,11/1/2023 23:11,946-4598 Fermentum Road,,Austin,35078,FALSE
+ORDER117,7,1,Cakes,7/10/2023 17:07,325-411 Augue Avenue,,Henderson,87026,TRUE
+ORDER118,13,5,Ham Toast,3/7/2023 21:03,"P.O. Box 817, 2466 Malesuada St.",,Kearney,18222,FALSE
+ORDER119,12,2,Avocados,2/11/2023 20:02,Ap #130-6666 Parturient Rd.,,Anchorage,26118,TRUE
+ORDER120,12,5,Avocados,4/6/2023 17:04,917-8385 Vulputate Rd.,,Rutland,82511,TRUE
+ORDER121,10,3,Jam Toast,3/8/2023 0:03,364-4078 Cras Street,,Glendale,64326,FALSE
+ORDER122,10,4,Jam Toast,1/1/2023 17:01,164-1574 Augue Ave,777-3637 Ante. Rd.,Jackson,68954,TRUE
+ORDER123,12,1,Avocados,11/1/2023 2:11,"982-7423 A, Av.",,Burlington,92552,FALSE
+ORDER124,7,2,Milk Tea,9/1/2023 18:09,170-5372 Consectetuer Road,,Glendale,52213,FALSE
+ORDER125,7,2,Cafe Latte,5/4/2023 21:05,Ap #378-7338 Dis Street,,Fresno,91433,TRUE
+ORDER126,7,5,Milk Tea,7/1/2023 20:07,325-7489 Duis St.,,Newport News,69241,TRUE
+ORDER127,5,3,Chocolate,3/1/2023 8:03,1296 Duis St.,,Omaha,71347,TRUE
+ORDER128,7,2,Flat White,5/1/2023 7:05,919-5789 Curabitur Rd.,,Anchorage,72847,TRUE
+ORDER129,7,3,Cappuccino,3/1/2023 6:03,150-2459 Faucibus Ave,,Stamford,81156,TRUE
+ORDER130,8,3,Mocha,9/9/2023 22:09,Ap #171-1787 Rutrum St.,,Clarksville,12714,TRUE
+ORDER131,8,2,Glace,10/3/2023 0:10,"4750 A, Rd.",,Chattanooga,24877,TRUE
+ORDER132,6,3,Espresso,6/1/2023 22:06,Ap #747-1147 Vel Av.,,Philadelphia,64688,TRUE
+ORDER133,6,5,Espresso,9/1/2023 4:09,9254 Lobortis Street,,Reading,75052,TRUE
+ORDER134,8,4,Latte,9/1/2023 1:09,"7732 Convallis, St.",,Norman,68606,TRUE
+ORDER135,8,2,Cocoa,6/1/2023 19:06,Ap #693-3515 Etiam Road,,Birmingham,86702,TRUE
+ORDER136,8,4,Cocoa,11/1/2023 2:11,382-4126 Sed Street,,Austin,82148,FALSE
+ORDER137,7,2,Cafe Latte,6/5/2023 8:06,"P.O. Box 648, 898 Sit Avenue",,Wichita,25472,FALSE
+ORDER138,7,4,Cafe Latte,5/5/2023 20:05,"P.O. Box 856, 395 Mauris Rd.",,Frederick,77745,TRUE
+ORDER139,7,4,Flat White,4/2/2023 3:04,Ap #922-5385 In Avenue,,College,72287,FALSE
+ORDER140,5,3,Chocolate,12/1/2023 12:12,Ap #229-7927 Volutpat Rd.,,Boise,36631,FALSE
+ORDER141,7,2,Cafe Latte,11/1/2023 16:11,"6820 Sem, Av.",,Fort Smith,77627,FALSE
+ORDER142,5,3,Chocolate,3/9/2023 9:03,525-2815 Nisl St.,,Owensboro,42885,TRUE
+ORDER143,7,3,Flat White,4/1/2023 22:04,Ap #348-8051 Aliquam Avenue,,Bangor,99845,TRUE
+ORDER144,7,2,Flat White,12/10/2023 20:12,986-8461 Nulla. St.,,Wyoming,91663,TRUE
+ORDER145,5,3,Chocolate,8/11/2023 10:08,6437 Lobortis Av.,,Georgia,97271,FALSE
+ORDER146,13,4,Ham Toast,10/7/2023 20:10,"P.O. Box 366, 6437 Sociis St.",,Fort Worth,72752,FALSE
+ORDER147,12,4,Avocados,10/11/2023 10:10,695-1928 Tellus Street,,Wilmington,72241,TRUE
+ORDER148,4,3,Mochi,8/1/2023 10:08,"Ap #857-7957 Ac, Rd.",,Chandler,97783,TRUE
+ORDER149,4,2,Mochi,3/10/2023 7:03,282-8634 Non Av.,,Wyoming,57033,TRUE
+ORDER150,5,4,Cupcakes,7/7/2023 20:07,Ap #247-8262 Mauris Ave,,Nashville,38462,TRUE
+ORDER151,5,4,Icecream,9/1/2023 11:09,217-4681 Quisque Rd.,,Minneapolis,64356,TRUE
+ORDER152,4,2,Macaron,8/7/2023 15:08,"7399 Tincidunt, Rd.",,West Valley City,57843,TRUE
+ORDER153,4,1,Macaron,7/4/2023 15:07,4725 Nunc. Street,,Broken Arrow,31347,TRUE
+ORDER154,10,4,Cheese Toast,6/8/2023 14:06,Ap #188-5902 Metus. Street,"P.O. Box 534, 2385 Diam. Avenue",Kailua,34366,TRUE
+ORDER155,10,2,Jam Toast,6/1/2023 1:06,5755 Duis Road,,Baltimore,21670,TRUE
+ORDER156,13,4,Strawberry,7/1/2023 21:07,Ap #825-4596 Ac Street,,Dover,72223,TRUE
+ORDER157,13,2,Strawberry,4/2/2023 2:04,3581 Mauris Av.,,Kenosha,22232,FALSE
+ORDER158,13,1,Strawberry,8/10/2023 7:08,Ap #383-8166 Varius. Rd.,,Kenosha,37673,FALSE
+ORDER159,7,3,Cakes,10/6/2023 15:10,353-7050 Ridiculus St.,,Kansas City,42807,FALSE
+ORDER160,7,1,Cakes,4/1/2023 0:04,256-232 Vitae Avenue,,Austin,87695,TRUE
+ORDER161,7,2,Cakes,8/1/2023 8:08,143-5798 Turpis Avenue,,Detroit,53755,FALSE
+ORDER162,13,4,Ham Toast,12/2/2023 2:12,180-8074 Augue Rd.,,Bellevue,13244,TRUE
+ORDER163,12,5,Avocados,10/1/2023 2:10,475-6332 Nec Street,,Carson City,88505,TRUE
+ORDER164,12,2,Avocados,8/1/2023 20:08,4286 Sit St.,,Toledo,35670,TRUE
+ORDER165,10,4,Jam Toast,12/5/2023 17:12,"339-8906 Tincidunt, Road",,West Jordan,40160,TRUE
+ORDER166,10,5,Jam Toast,5/1/2023 21:05,326-601 Morbi Street,,Lakewood,32871,TRUE
+ORDER167,12,3,Avocados,3/2/2023 19:03,Ap #919-1391 Euismod Rd.,,Harrisburg,69358,TRUE
+ORDER168,7,2,Milk Tea,9/1/2023 21:09,820-9282 Parturient Av.,,Juneau,22261,TRUE
+ORDER169,7,5,Cafe Latte,2/1/2023 13:02,Ap #461-3055 Neque. Ave,,Billings,37191,TRUE
+ORDER170,7,2,Milk Tea,7/1/2023 18:07,209-4987 Semper Road,,Fort Worth,54608,TRUE
+ORDER171,5,2,Chocolate,1/1/2023 1:01,"P.O. Box 859, 6634 Ut Road",,Warren,72491,TRUE
+ORDER172,7,1,Flat White,7/1/2023 21:07,605-5401 Dolor St.,,Augusta,55838,FALSE
+ORDER173,7,5,Cappuccino,8/1/2023 18:08,Ap #104-7467 Ut Ave,863-6736 Augue St.,Chattanooga,33744,TRUE
+ORDER174,8,5,Mocha,8/1/2023 5:08,465-5419 Curabitur Rd.,,Allentown,23430,TRUE
+ORDER175,8,1,Glace,2/7/2023 13:02,Ap #714-7947 Magna. Rd.,,Reno,27877,TRUE
+ORDER176,6,2,Espresso,8/1/2023 11:08,386-1207 Nunc Ave,,Paradise,66212,TRUE
+ORDER177,6,2,Espresso,11/1/2023 15:11,Ap #578-4423 Molestie Ave,Ap #589-9624 Cras Av.,Meridian,49681,TRUE
+ORDER178,8,3,Latte,5/8/2023 0:05,1148 Ipsum. Ave,,Henderson,84249,TRUE
+ORDER179,8,2,Cocoa,7/2/2023 1:07,148-1939 Ac St.,,Pittsburgh,75350,TRUE
+ORDER180,8,5,Cocoa,2/11/2023 4:02,Ap #565-3793 Sem Rd.,,Gulfport,66613,TRUE
+ORDER181,7,3,Cafe Latte,10/5/2023 12:10,Ap #957-5644 Egestas Road,,Southaven,72187,TRUE
+ORDER182,7,4,Cafe Latte,8/1/2023 0:08,Ap #284-453 Ultricies Road,,Indianapolis,44881,TRUE
+ORDER183,7,3,Flat White,7/1/2023 2:07,Ap #936-4318 Rutrum Road,,St. Petersburg,44654,TRUE
+ORDER184,5,2,Chocolate,11/1/2023 15:11,"P.O. Box 179, 2263 Dictum Road",,San Jose,13576,TRUE
+ORDER185,6,3,Espresso,10/1/2023 11:10,Ap #176-6497 Etiam St.,,Jefferson City,62387,TRUE
+ORDER186,8,3,Latte,8/1/2023 2:08,4465 Vestibulum St.,,Hilo,42772,FALSE
+ORDER187,8,4,Cocoa,6/1/2023 11:06,Ap #334-8258 Sed Ave,,Iowa City,81496,FALSE
+ORDER188,8,4,Cocoa,10/1/2023 19:10,Ap #702-3902 Pharetra. Street,,Miami,33836,FALSE
+ORDER189,7,3,Cafe Latte,3/5/2023 11:03,Ap #106-9011 Vivamus Avenue,,Fort Collins,26414,TRUE
+ORDER190,7,2,Cafe Latte,5/1/2023 14:05,"P.O. Box 607, 8696 Semper Road",,Rock Springs,23767,TRUE
+ORDER191,7,4,Flat White,12/1/2023 2:12,Ap #509-2110 Morbi Street,,Pike Creek,86360,TRUE
+ORDER192,5,1,Chocolate,2/8/2023 13:02,452-2525 Malesuada Road,,Norman,47736,FALSE
+ORDER193,7,4,Cafe Latte,10/4/2023 21:10,3237 Nibh. Rd.,380-5797 Aliquet. Ave,Iowa City,31534,TRUE
+ORDER194,5,5,Chocolate,11/11/2023 14:11,983 Duis St.,,Lafayette,66375,TRUE
+ORDER195,7,2,Flat White,9/1/2023 19:09,207-9077 Mauris Av.,,Tulsa,31431,TRUE
+ORDER196,7,3,Flat White,2/8/2023 7:02,"P.O. Box 500, 2274 Gravida. Ave",,Provo,76851,TRUE
+ORDER197,5,2,Chocolate,1/5/2023 15:01,495-4411 Lobortis Av.,,Lowell,55767,TRUE
+ORDER198,13,2,Ham Toast,8/1/2023 18:08,"P.O. Box 781, 663 Et Road",,Virginia Beach,78907,TRUE
+ORDER199,12,3,Avocados,2/1/2023 22:02,738-728 Phasellus St.,,Sterling Heights,64172,TRUE
+ORDER200,4,4,Mochi,8/1/2023 22:08,Ap #358-3306 Rhoncus. Street,,Salem,11277,TRUE
+ORDER201,4,1,Mochi,12/1/2023 14:12,148-4560 Nullam Avenue,,Augusta,66633,TRUE
+ORDER202,5,1,Cupcakes,2/6/2023 13:02,"P.O. Box 122, 1691 Duis Rd.",,Wilmington,82312,TRUE
+ORDER203,5,4,Icecream,5/1/2023 11:05,Ap #804-6404 Fermentum Av.,,Allentown,39387,TRUE
+ORDER204,6,3,Espresso,2/1/2023 12:02,Ap #493-2430 Proin Rd.,,Rockford,27072,TRUE
+ORDER205,8,1,Latte,8/1/2023 13:08,Ap #957-3802 Eu St.,,Kaneohe,57941,FALSE
+ORDER206,8,3,Cocoa,10/9/2023 22:10,Ap #124-2294 Tellus Rd.,,Savannah,75588,TRUE
+ORDER207,8,4,Cocoa,9/1/2023 15:09,682-1427 Sapien. Ave,,Cheyenne,29142,FALSE
+ORDER208,7,2,Cafe Latte,8/8/2023 8:08,323-1053 Nec Avenue,,Minneapolis,34418,FALSE
+ORDER209,7,4,Cafe Latte,8/1/2023 3:08,573-8414 Ante Av.,,Aurora,57965,TRUE
+ORDER210,7,3,Flat White,5/1/2023 13:05,946-4743 Vitae St.,,Kansas City,35665,FALSE
+ORDER211,5,4,Chocolate,9/5/2023 8:09,Ap #957-4247 Facilisis Avenue,,Austin,64541,FALSE
+ORDER212,7,2,Cafe Latte,3/1/2023 10:03,"P.O. Box 175, 8155 Ante St.",,Naperville,99874,TRUE
+ORDER213,5,5,Chocolate,9/1/2023 19:09,"P.O. Box 792, 3121 Lobortis Road",,Carson City,11151,TRUE
+ORDER214,7,3,Flat White,8/10/2023 9:08,529-8388 Aliquam St.,,Southaven,94325,TRUE
+ORDER215,7,2,Flat White,3/1/2023 11:03,Ap #101-7104 Luctus Road,,Chandler,64136,TRUE
+ORDER216,5,4,Chocolate,11/1/2023 14:11,4374 Sagittis St.,,Kenosha,96578,TRUE
+ORDER217,13,3,Ham Toast,5/1/2023 9:05,502-7304 Tellus. Road,,Green Bay,36722,TRUE
+ORDER218,12,4,Avocados,4/1/2023 12:04,512-8907 Turpis St.,,Augusta,95424,TRUE
+ORDER219,4,4,Mochi,8/1/2023 15:08,Ap #170-7223 Adipiscing Rd.,,Bridgeport,77126,TRUE
+ORDER220,4,1,Mochi,3/1/2023 12:03,638-7826 Hymenaeos. Av.,,Henderson,30381,TRUE
+ORDER221,5,2,Cupcakes,10/12/2023 7:10,983-8295 Elit Road,,Dover,31554,TRUE
+ORDER222,5,2,Icecream,4/3/2023 12:04,452 Quis Street,,Lakewood,71741,TRUE
+ORDER223,8,4,Mocha,1/5/2023 4:01,"P.O. Box 802, 3040 Aliquam Ave",,Boston,20741,TRUE
+ORDER224,8,1,Mocha,10/3/2023 19:10,820-1640 Sed Ave,,Meridian,41977,TRUE
+ORDER225,8,2,Mocha,7/7/2023 1:07,700-8804 Pellentesque Rd.,,Miami,19432,TRUE
+ORDER226,8,4,Mocha,4/1/2023 6:04,Ap #348-9819 Primis Ave,"P.O. Box 673, 112 Lectus Avenue",Grand Island,56927,TRUE
+ORDER227,7,4,Flat White,1/5/2023 23:01,"P.O. Box 320, 3553 Vitae St.",,Jackson,42231,TRUE
+ORDER228,7,2,Cappuccino,2/5/2023 19:02,562-5898 Sit Ave,,Laramie,45741,TRUE
+ORDER229,7,1,Cafe Latte,10/9/2023 13:10,3040 Hendrerit Street,,Bellevue,28671,TRUE
+ORDER230,5,3,Chocolate,2/1/2023 17:02,"Ap #988-9872 At, Ave",,South Bend,73042,TRUE
+ORDER231,7,4,Flat White,3/1/2023 14:03,Ap #212-9786 Vestibulum St.,,Rockford,43551,TRUE
+ORDER232,7,2,Flat White,5/1/2023 19:05,Ap #246-3317 Proin Street,,Toledo,62241,TRUE
+ORDER233,5,1,Chocolate,10/1/2023 23:10,Ap #900-2105 Rutrum Rd.,,Fairbanks,18572,TRUE
+ORDER234,13,3,Ham Toast,11/8/2023 23:11,Ap #171-2382 Sed Av.,,Southaven,85152,TRUE
+ORDER235,12,3,Avocados,1/4/2023 16:01,6283 Cum Street,,Grand Rapids,17114,FALSE
+ORDER236,4,5,Mochi,9/3/2023 6:09,9700 Sit Rd.,,Biloxi,70811,FALSE
+ORDER237,4,5,Mochi,8/1/2023 8:08,Ap #631-4612 In Ave,,Missoula,53857,FALSE
+ORDER238,5,2,Cupcakes,8/1/2023 6:08,542-9695 Non Ave,,Springfield,96558,TRUE
+ORDER239,5,1,Icecream,6/1/2023 14:06,519-7541 Nunc Avenue,,Des Moines,16636,FALSE
+ORDER240,4,2,Macaron,10/8/2023 6:10,Ap #869-8891 Magna. Avenue,,Bowling Green,98554,TRUE
+ORDER241,4,3,Macaron,1/1/2023 1:01,728-2418 Aptent Street,,Lafayette,83743,FALSE
+ORDER242,10,3,Cheese Toast,2/1/2023 4:02,"P.O. Box 629, 3233 Lorem Rd.",,South Burlington,87214,TRUE
+ORDER243,10,3,Jam Toast,12/1/2023 20:12,Ap #475-3048 Quam Avenue,,Gulfport,69470,TRUE
+ORDER244,13,4,Strawberry,6/1/2023 11:06,Ap #291-3018 Donec Ave,,Broken Arrow,51735,TRUE
+ORDER245,13,5,Strawberry,8/1/2023 10:08,Ap #181-3403 Lectus St.,Ap #674-6209 Lorem. St.,Birmingham,24878,TRUE
+ORDER246,13,2,Strawberry,4/11/2023 16:04,"918-5376 Ornare, St.",,Tulsa,86702,TRUE
+ORDER247,7,2,Cakes,8/1/2023 0:08,Ap #157-2218 Ultricies Road,,Stamford,91182,TRUE
+ORDER248,7,4,Cakes,5/1/2023 14:05,650-9638 Viverra. St.,,Columbia,69744,TRUE
+ORDER249,7,3,Cakes,3/1/2023 9:03,"662-9890 Mi, Street",,Bellevue,17435,TRUE
+ORDER250,13,2,Ham Toast,1/1/2023 23:01,Ap #776-331 Dui. Avenue,,Annapolis,29283,TRUE
+ORDER251,12,5,Avocados,1/2/2023 6:01,1761 Suspendisse Road,,Idaho Falls,66740,TRUE
+ORDER252,12,3,Avocados,10/7/2023 18:10,Ap #879-1462 Rutrum St.,,Boise,62822,TRUE
+ORDER253,10,1,Jam Toast,12/1/2023 5:12,"P.O. Box 789, 302 Pharetra. Road",,Atlanta,73518,TRUE
+ORDER254,10,5,Jam Toast,10/11/2023 1:10,"P.O. Box 766, 1544 Lacinia St.",,Norfolk,93593,TRUE
+ORDER255,12,1,Avocados,12/1/2023 23:12,129-4162 Lectus Rd.,,San Diego,61168,TRUE
+ORDER256,7,2,Milk Tea,9/1/2023 15:09,854-7206 Sed Road,,Jefferson City,58576,TRUE
+ORDER257,7,2,Cafe Latte,1/1/2023 6:01,1081 Luctus Avenue,,Fresno,42762,FALSE
+ORDER258,7,1,Milk Tea,6/4/2023 22:06,Ap #971-369 Sapien. St.,,Gary,94823,TRUE
+ORDER259,5,4,Chocolate,9/1/2023 20:09,Ap #872-9900 Amet Avenue,,Detroit,77121,FALSE
+ORDER260,7,1,Flat White,7/1/2023 15:07,"P.O. Box 387, 1010 Ac, Street",,Iowa City,45523,FALSE
+ORDER261,7,3,Cappuccino,8/1/2023 8:08,"P.O. Box 756, 8554 Tempor St.",,Richmond,90122,TRUE
+ORDER262,8,2,Mocha,5/1/2023 5:05,425-2500 Duis Av.,,Grand Island,58870,FALSE
+ORDER263,4,1,Macaron,8/1/2023 1:08,7473 Nascetur Rd.,,Knoxville,64477,TRUE
+ORDER264,10,5,Cheese Toast,10/2/2023 10:10,745-3799 Eu Rd.,,Columbia,12196,TRUE
+ORDER265,10,1,Jam Toast,4/1/2023 18:04,720-3445 Gravida Avenue,,Gulfport,57139,TRUE
+ORDER266,13,1,Strawberry,4/11/2023 20:04,"Ap #966-5843 Tincidunt, St.",,Miami,85872,TRUE
+ORDER267,13,5,Strawberry,7/1/2023 12:07,357-823 Sem Av.,,San Diego,23861,TRUE
+ORDER268,13,1,Strawberry,11/1/2023 2:11,702-6022 A Road,,Broken Arrow,65128,TRUE
+ORDER269,7,3,Cakes,10/11/2023 22:10,"P.O. Box 698, 4924 Erat Rd.",,Des Moines,36503,TRUE
+ORDER270,7,1,Cakes,3/1/2023 8:03,"P.O. Box 317, 2394 Penatibus Street",,Naperville,29686,TRUE
+ORDER271,7,4,Cakes,3/5/2023 11:03,880-6121 Sed St.,,Los Angeles,91324,TRUE
+ORDER272,13,3,Ham Toast,9/1/2023 16:09,"P.O. Box 274, 2596 Purus. Ave",,Kansas City,72495,TRUE
+ORDER273,12,2,Avocados,7/1/2023 1:07,446-8199 Vehicula Road,,Duluth,12157,TRUE
+ORDER274,12,5,Avocados,2/12/2023 9:02,627-7109 Ut St.,,Montpelier,38217,TRUE
+ORDER275,10,4,Jam Toast,9/4/2023 18:09,583-7878 Sem Rd.,,Honolulu,75221,TRUE
+ORDER276,10,1,Jam Toast,7/6/2023 6:07,220-9360 Nulla Rd.,,Bloomington,41276,FALSE
+ORDER277,12,4,Avocados,8/1/2023 21:08,Ap #900-9344 Dui. Rd.,,Helena,71668,TRUE
+ORDER278,7,4,Milk Tea,4/1/2023 4:04,"P.O. Box 995, 1860 Arcu Ave",,Harrisburg,85652,FALSE
+ORDER279,7,4,Cafe Latte,5/1/2023 16:05,"316-6119 Eu, Rd.",,Omaha,15882,TRUE
+ORDER280,7,2,Milk Tea,9/1/2023 9:09,Ap #141-9156 Semper St.,,Grand Island,35251,FALSE
+ORDER281,5,3,Chocolate,4/1/2023 11:04,466-5713 Neque. Ave,,Iowa City,35393,TRUE
+ORDER282,7,1,Flat White,3/9/2023 2:03,519-3091 Quam. Ave,,Rochester,47318,TRUE
+ORDER283,7,5,Cappuccino,10/1/2023 8:10,180-1067 Nec Avenue,,Fort Smith,77742,TRUE
+ORDER284,8,1,Mocha,1/1/2023 17:01,Ap #514-7855 Nunc St.,,Oklahoma City,36863,TRUE
+ORDER285,13,2,Strawberry,9/1/2023 4:09,Ap #916-7918 Vitae St.,,Columbus,83533,TRUE
+ORDER286,13,4,Strawberry,7/1/2023 11:07,6049 Ut St.,,Sterling Heights,36288,TRUE
+ORDER287,13,1,Strawberry,7/1/2023 15:07,"Ap #821-889 Eu, Av.",,Vancouver,17365,TRUE
+ORDER288,7,3,Cakes,5/1/2023 18:05,Ap #633-5375 Vestibulum Street,,Norfolk,20294,TRUE
+ORDER289,7,4,Cakes,9/4/2023 15:09,"P.O. Box 165, 5421 Libero. Av.",,Akron,63265,TRUE
+ORDER290,7,3,Cakes,7/1/2023 15:07,Ap #377-4016 Mi Rd.,,Portland,42375,TRUE
+ORDER291,13,4,Ham Toast,6/1/2023 11:06,"P.O. Box 224, 9743 Vitae Rd.",,Sterling Heights,58594,TRUE
+ORDER292,12,2,Avocados,2/8/2023 20:02,8497 Dictum Ave,,Bridgeport,47149,TRUE
+ORDER293,12,5,Avocados,7/1/2023 2:07,"Ap #715-993 Eu, Rd.",,Cheyenne,36601,TRUE
+ORDER294,10,5,Jam Toast,2/1/2023 4:02,Ap #765-8665 A St.,,Portland,64745,TRUE
+ORDER295,10,2,Jam Toast,1/4/2023 0:01,828-4110 Commodo Avenue,,Chesapeake,12214,TRUE
+ORDER296,12,2,Avocados,12/11/2023 12:12,832-7102 Convallis St.,,Gulfport,95430,FALSE
+ORDER297,7,3,Milk Tea,5/8/2023 2:05,Ap #341-5699 Nunc Road,,Tuscaloosa,84241,TRUE
+ORDER298,7,4,Cafe Latte,1/1/2023 23:01,8915 Vitae Av.,,Kapolei,16285,TRUE
+ORDER299,7,3,Milk Tea,6/10/2023 1:06,447-8737 Libero Road,,Bear,97813,TRUE
+ORDER300,5,1,Chocolate,11/1/2023 21:11,339-6435 Vel Street,,Nashville,85746,TRUE
